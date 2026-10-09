@@ -25,5 +25,3 @@ uploads/posts/*
 !uploads/**/.gitkeep
 
 
-#Lock files
-package-lock.json
